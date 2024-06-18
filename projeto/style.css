@@ -36,24 +36,3 @@ color: black;
   color: #33cc33;
   font-weight: 600;
 }
-
-input {
-  color:#33cc33;
-  border: 1px solid #33cc33;
-  background-color: black;
-}
-
-text-area {
-  color:#33cc33;
-  border: 1px solid #33cc33;
-  background-color: black;
-  margin: 10px;
-}
-
-.formulario-top {
-  border: 1px solid #33cc33;
-  width: 500px;
-  text-align: center;
-  padding:10px;
-  margin: 0 auto;
-}
